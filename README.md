@@ -2,6 +2,7 @@
 
 ## Overview
 This project compares TSMC ADR (NYSE: TSM) and TSMC Taiwan-listed shares (2330.TW) from 2020 to 2026, analyzing cross-market dynamics and exchange rate effects.
+
 ---
 ## Data
 - Source: Yahoo Finance (TSM, 2330.TW)
