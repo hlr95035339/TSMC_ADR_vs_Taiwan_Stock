@@ -10,7 +10,7 @@ This project compares TSMC ADR (NYSE: TSM) and TSMC Taiwan-listed shares (2330.T
 - Variables: Closing price, trading volume, USD/TWD exchange rate
 
 ## Methods
-- Data cleaning and alignment with Python (script.py)
+- Data cleaning and alignment with Python (main.py)
 - Currency conversion for Taiwan stock prices
 - Correlation analysis between ADR and Taiwan shares
 - Visualization with matplotlib / Tableau
