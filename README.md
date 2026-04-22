@@ -15,7 +15,7 @@ This project compares TSMC ADR (NYSE: TSM) and TSMC Taiwan-listed shares (2330.T
 - Visualization with matplotlib / Tableau
 
 ## Visualizations
-![ADR vs Taiwan Stock](Dashboard 1.png)
+[ADR vs Taiwan Stock](Dashboard 1(1).png)
 
 👉 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/TSMCADRvsTaiwanStockMarketAnalysis20202026/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
