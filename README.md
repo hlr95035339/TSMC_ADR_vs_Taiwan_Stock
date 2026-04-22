@@ -27,6 +27,6 @@ This project compares TSMC ADR (NYSE: TSM) and TSMC Taiwan-listed shares (2330.T
 - Long-term trend (2020–2026) highlights resilience during global crises and AI boom.
 
 ## Skills Demonstrated
-- Python data analysis (script.py)
+- Python data analysis (main.py)
 - Tableau dashboard design
 - Financial market comparison and business insight generation
