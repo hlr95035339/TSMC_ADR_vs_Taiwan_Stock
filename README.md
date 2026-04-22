@@ -13,7 +13,9 @@ This project compares TSMC ADR (NYSE: TSM) and TSMC Taiwan-listed shares (2330.T
 - Currency conversion for Taiwan stock prices
 - Correlation analysis between ADR and Taiwan shares
 - Visualization with matplotlib / Tableau
-  
+
+-----
+
 ## Visualizations
 ![TSMC_ADR_vs_Taiwan_Stock Dashboard](Dashboard_1.png)
 
