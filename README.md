@@ -1,2 +1,2 @@
-# Compare-TSMC-ADR-NYSE-TSM-with-TSMC-Taiwan-listed-stock-2330.TW-to-analyze-cross-market-dynamics
+# TSMC_ADR_vs_Taiwan_Stock
 Scope: Price correlation, currency impact, investor sentiment, SEO keyword trends.
