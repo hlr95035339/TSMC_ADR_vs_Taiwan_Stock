@@ -22,12 +22,13 @@ This project compares TSMC ADR (NYSE: TSM) and TSMC Taiwan-listed shares (2330.T
 
 👉 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/TSMCADRvsTaiwanStockMarketAnalysis20202026/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+----
 ## Insights
 - ADR and Taiwan shares show strong correlation (>0.9).
 - Exchange rate fluctuations create short-term gaps.
 - US investors focus on earnings calls, while Taiwan investors emphasize 法說會.
 - Long-term trend (2020–2026) highlights resilience during global crises and AI boom.
-
+----
 ## Skills Demonstrated
 - Python data analysis (main.py)
 - Tableau dashboard design
