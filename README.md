@@ -1,4 +1,21 @@
-# TSMC ADR vs Taiwan Stock Market Analysis (2020–2026)
+# TSMC ADR vs Taiwan Stock Market Analysis 
+
+## Project Overview
+Why does TSMC ADR trade at a premium over Taiwan-listed shares?
+
+---
+
+## Key Insights
+- ADR premium averages 15–25%
+- Spread is persistent
+- Influenced by FX and US market sentiment
+
+
+
+
+
+
+
 
 ## Overview
 This project compares TSMC ADR (NYSE: TSM) and TSMC Taiwan-listed shares (2330.TW) from 2020 to 2026, analyzing cross-market dynamics and exchange rate effects.
@@ -34,3 +51,42 @@ This project compares TSMC ADR (NYSE: TSM) and TSMC Taiwan-listed shares (2330.T
 - Python data analysis (main.py)
 - Tableau dashboard design
 - Financial market comparison and business insight generation
+
+---
+
+## Data (2020-2026)
+- Taiwan Stock Exchange (2330)
+- NYSE ADR (TSM)
+- USD/TWD exchange rate
+
+---
+
+## Methodology
+Spread = (ADR × 5 × FX) - TW price
+
+---
+
+## Analysis
+- Time series comparison
+- Spread distribution
+- Rolling statistics
+
+---
+
+## Modeling
+- Regression on spread drivers
+- Optional: Z-score signal
+
+---
+
+## Trading Implications
+- Potential mean reversion
+- Arbitrage limitations exist
+
+---
+
+## Tools
+- Python (Pandas, Matplotlib)
+
+
+
